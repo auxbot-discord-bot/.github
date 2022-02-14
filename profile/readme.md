@@ -16,3 +16,4 @@ This organization is for AuxBot and its sub projects, some of these repos maybe 
 
 - [Readme design credit](https://github.com/mixtape-bot/.github/blob/main/profile/README.md)
 - [Sherlock](https://github.com/AmbroseBot/async-sherlock)
+- [Screenshot Api](https://github.com/yukikaze-bot/screenshot)
