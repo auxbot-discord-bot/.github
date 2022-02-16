@@ -1,4 +1,4 @@
-![banner.png](https://github.com/AuxBot-Discord-Bot/.github/blob/Main/images/banner.png)
+![banner.png](https://github.com/auxBot-discord-bot/.github/blob/main/images/banner.png)
 
 ## Team
 
