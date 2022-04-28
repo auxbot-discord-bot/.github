@@ -10,7 +10,3 @@ This organization is for AuxBot and its sub projects, some of these repos maybe 
 
 ## Support
 For support with AuxBot you can join our [**support server**](https://www.auxbot.xyz/support) on discord.
-
-## Credit
-- [**Async Sherlock**](https://github.com/AmbroseBot/async-sherlock)
-- [**Screenshot Api**](https://github.com/yukikaze-bot/screenshot)
